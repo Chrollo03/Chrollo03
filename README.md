@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrollo03&label=Profile%20views&color=0e75b6&style=flat" alt="chrollo03" /> </p>
 
-- 🔭 I’m currently working on **conconducting a sentiment analysis for my SP.**
+- 🔭 I’m currently working on **conducting a sentiment analysis for my SP.**
 
 - 👯 Some of my favorite things to do are **playing competitive computer games, and watching series or anime**
 
